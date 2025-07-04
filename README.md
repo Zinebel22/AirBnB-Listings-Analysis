@@ -1,2 +1,2 @@
 # AirBnB-Listings-Analysis
-#
+Analyzed Paris Airbnb listings using Python and Pandas to explore pricing trends and host activity over time. Cleaned and transformed data, converted date fields, and grouped by year to evaluate the impact of 2015 regulations. Created visualizations with Matplotlib to show trends in average price and new host growth. Identified the most expensive neighborhoods based on average listing price.
